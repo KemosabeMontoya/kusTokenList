@@ -1,0 +1,11 @@
+{
+    "name": "KuKitty",
+    "website": "https://kukitty.finance/",
+    "description": "KuKitty is the 1st Cat-Themed Token on KCC Network. Made With Love <3",
+    "explorer": "https://explorer.kcc.io/en/token/0x22e9331d8b9b42bf92801005a69bed793e9f686e",
+    "type": "KRC20",
+    "symbol": "KuKitty",
+    "decimals": 9,
+    "status": "active",
+    "address": "0x22e9331d8b9b42bf92801005a69bed793e9f686e"
+}
